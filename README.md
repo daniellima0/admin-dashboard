@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Admin Dashboard
 
 ## Introduction
 
